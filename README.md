@@ -13,7 +13,7 @@ $ conda install pytorch=2.3.0 torchvision=0.18.0 torchaudio=2.3.0 pytorch-cuda=1
 $ pip install spikingjelly
 ```
 
-or clone and modify locally:
+then clone and modify locally:
 
 ```bash
 $ git clone https://github.com/luutn2002/grad-obf-snn.git
