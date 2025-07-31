@@ -25,7 +25,7 @@ $ git clone https://github.com/luutn2002/grad-obf-snn.git
 
 ### Step 2: Usage
 
-To ensure reproducibility, remember to use static random seed:
+To ensure reproducibility, remember to use static random seed on modification:
 ```python
 import torch
 import numpy as np
